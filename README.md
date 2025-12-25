@@ -14,16 +14,11 @@
 ---
 
 ## 📌 Projects
-<!--
-- 🔹 **Project name** – short description  
-  👉 https://github.com/yourname/project
+
+- 🔹 **University* – first projects durning my study  
+  👉 https://github.com/msydrv/University
 
 - 🔹 **Another project** – short description  
--->
----
-
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=msydrv&show_icons=true&theme=tokyonight)
 
 ---
 
