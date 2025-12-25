@@ -14,15 +14,16 @@
 ---
 
 ## 📌 Projects
+<!--
 - 🔹 **Project name** – short description  
   👉 https://github.com/yourname/project
 
 - 🔹 **Another project** – short description  
-
+-->
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=msydrv&show_icons=true&theme=tokyonight)
 
 ---
 
